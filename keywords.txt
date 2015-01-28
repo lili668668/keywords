@@ -47,4 +47,4 @@ git fetch [remote name] : catch the file
 git pull [remote name] : catch and get together the file
 git push [remote name] [vision] : copy the local storage into the remote storage
 git remote rename/rm
-
+http://git-scm.com/book/zh-tw/v1/%E9%96%8B%E5%A7%8B
