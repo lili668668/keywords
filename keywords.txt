@@ -52,8 +52,15 @@ git tag -a [name] -m "explanation" : add a tag
 git tag -s [name] -m "explanation" : add a tag with a private key
 git branch : show all the branches
 git branch [name] : make a branch
+git branch -d [branch name] : delete the branch
+git branch -D [branch name] : delete the branch in force
+git branch -v : show all branches' information
+git branch --merged : show the merged branch
+git branch --no-merged : show the unmerged branch
 git checkout [branch name] : go to the branch
 git checkout -b [name] : make a branch and go to the branch
+git merge [branch name] : merge the "branch name" in the now branch
+git revert HEAD : fix the vi file to go to the wanted commit
 
 
 
