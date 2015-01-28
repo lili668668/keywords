@@ -53,6 +53,7 @@ git tag -s [name] -m "explanation" : add a tag with a private key
 git branch : show all the branches
 git branch [name] : make a branch
 git checkout [branch name] : go to the branch
+git checkout -b [name] : make a branch and go to the branch
 
 
 
